@@ -5,4 +5,4 @@ Basic Alpine based docker image for quick deployment tasks
 - rsync
 - git
 - curl
-
+- bash
